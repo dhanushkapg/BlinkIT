@@ -80,7 +80,7 @@ Monitor Ratings for Deeper Insights.
 
 <h2>ATLIQ-360 Home Page</h2>
 <p align="center">
-<img src="[https://github.com/dhanushkapg/ATLIQ-Sales-360/blob/main/HomePage.png](https://github.com/dhanushkapg/BlinkIT/blob/main/BlinkitIT.png)"/>
+<img src="https://github.com/dhanushkapg/BlinkIT/blob/main/BlinkitIT.png"/>
 <br/>
 
 
