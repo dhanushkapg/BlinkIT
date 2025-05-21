@@ -78,7 +78,7 @@ Monitor Ratings for Deeper Insights.
 
 
 
-<h2>ATLIQ-360 Home Page</h2>
+<h2> Blinkit Sales Analysis Overview</h2>
 <p align="center">
 <img src="https://github.com/dhanushkapg/BlinkIT/blob/main/BlinkitIT.png"/>
 <br/>
