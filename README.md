@@ -7,10 +7,15 @@ This Power BI dashboard provides a comprehensive overview of sales performance, 
 <br>
 <p>
 1. 🔍 Key Metrics Summary (Top Panel)
+  <p>
 ✔ Total Sales: $1.20M
+    <p>
 ✔ Average Sales per Item: $140.99
+      <p>
 ✔ Total Items Sold: 9K
+        <p>
 ✔ Total Categories: 16.
+          <p>
 ✔ Average Customer Rating: 3.92 / 5
   </p>
 <br/>
@@ -62,8 +67,7 @@ Monitor Ratings for Deeper Insights.
 ✔ Business Impact:
 ✔ Enables data-driven decisions for marketing and sales strategies.
 ✔ Improves targeting, personalization, and resource allocation.
-✅ Conclusion:
-Sales 360 provides actionable insights, enhancing decision-making and offering a competitive edge in the sales domain.
+
 
 
 <h2>ATLIQ-360 Home Page</h2>
